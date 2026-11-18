@@ -64,8 +64,8 @@ En lugar de VS Code también puedes usar JupyterLab, que se instala en el paso 3
 ### 2. Descargar el proyecto
 
 ```bash
-git clone https://github.com/<usuario>/<repositorio>.git
-cd <repositorio>
+git clone https://github.com/racalleo/diseno-viga-presforzada.git
+cd diseno-viga-presforzada
 ```
 
 ### 3. Crear un entorno e instalar las librerías
